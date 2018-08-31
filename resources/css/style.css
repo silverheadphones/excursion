@@ -32,6 +32,13 @@ h4 {
   text-align: center;
 }
 
+img,
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #footer {
   text-align: right;
 }
